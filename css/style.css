@@ -1,0 +1,60 @@
+body,h1,p{
+    margin:0;
+}
+header{
+    background-image: url("../images/water-liquid.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 600px 150px 200px;
+    height: 100vh;
+}
+h1{
+    text-transform: capitalize;
+    font-size: 90px;
+    line-height: 90px;
+    color:white;
+
+}
+hr{
+    width: 190px;
+    text-align: left;
+    margin-left: 0;
+    border: 2px solid rgba(165, 101, 42, 0.842)
+}
+.head-para{
+    color: white;
+    font-size: 20px;
+    margin: 25px 0;
+
+}
+.btn1{
+    background-color:  rgba(165, 101, 42, 0.842);
+    color: white;
+    border: 2px solid  rgba(165, 101, 42, 0.842);
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.btn1:hover{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+
+}
+.btn2{
+    background-color:  rgba(165, 101, 42, 0.842);
+    color: white;
+    border: 2px solid  rgba(165, 101, 42, 0.842);
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.btn2:hover{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+
+}
